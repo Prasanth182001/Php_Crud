@@ -44,6 +44,7 @@
                 <td><a href="delete.php?id=<?php echo $id?>">Delete</a></td>
             </tr>
             <?php
+            $id++
         }
         
         ?>
